@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Lopes
 
-<!--
-**Gabriellopes-DS/Gabriellopes-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cientista de Dados em formação | 💻 Apaixonado por transformar dados em insights
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 📍 Localização: Cascavel, Paraná, Brasil
+- 🎯 Interesse em Machine Learning, Análise de Dados e Visualização
+- 📚 Atualmente estudando: Python, SQL e Estatística
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- Python, Pandas, NumPy, Matplotlib
+- SQL, PostgreSQL
+- Jupyter Notebook
+
+## 📈 Projetos em Destaque
+- [Análise de Sobrevivência no Titanic](https://github.com/Gabriellopes-DS/Projeto-Titanic)
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- Email: seuemail@example.com
