@@ -17,5 +17,5 @@
 - [Análise de Vendas de Cartas de Crédito em 2024 - Caixa Economica Federal]()
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/gabriellopesds)]
+- [LinkedIn](https://www.linkedin.com/in/gabriellopesds)
 - Email: gbllopes02@gmail.com
