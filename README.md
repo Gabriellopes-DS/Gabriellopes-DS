@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel Lopes
 
-🎓 Cientista de Dados em formação | 💻 Apaixonado por transformar dados em insights
+🎓 Graduação em Ciência de Dados | 💻 Apaixonado por transformar dados em insights
 
 ## 🚀 Sobre mim
 - 📍 Localização: Cascavel, Paraná, Brasil
