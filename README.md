@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 - 📍 Localização: Cascavel, Paraná, Brasil
 - 🎯 Interesse em Machine Learning, Análise de Dados e Visualização
-- 📚 Atualmente estudando: Python, SQL e Estatística
+- 📚 Atualmente estudando: Python, SQL e Estatística, Machine Learning
 
 ## 🛠️ Tecnologias e Ferramentas
 - Python, Pandas, NumPy, Matplotlib
@@ -13,8 +13,9 @@
 - Jupyter Notebook
 
 ## 📈 Projetos em Destaque
-- [Análise de Sobrevivência no Titanic](https://github.com/Gabriellopes-DS/Projeto-Titanic)
+  - [Budget Generator Application (BGA)](https://github.com/Gabriellopes-DS/Projeto-Titanic)
+- [Análise de Vendas de Cartas de Crédito em 2024 - Caixa Economica Federal]()
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- Email: seuemail@example.com
+- [[LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/gabriellopesds/)
+- Email: gbllopes02@gmail.com
